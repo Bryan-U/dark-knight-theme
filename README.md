@@ -16,7 +16,7 @@ It supports GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm.
 ..*gtk2-engines-murrine on Debian, Ubuntu, etc <br> 
 
 # Installation
-Just copy dark knight/dark knight compact theme to /home/{username}/.themes. 
+Just copy dark knight/dark knight compact folder to /home/{username}/.themes. 
 Make __.theme__ folder if needed.
 
 # Extra thoughts
