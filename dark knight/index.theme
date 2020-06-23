@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=dark knight-light
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=dark knight-light
+MetacityTheme=dark knight-light
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
