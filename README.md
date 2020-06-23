@@ -20,6 +20,6 @@ Just copy dark knight/dark knight compact theme to /home/{username}/.themes.
 Make __.theme__ folder if needed.
 
 # Extra thoughts
-This theme is based on materia theme. <br>
 Inspired by [vastglad](https://twitter.com/vastglad/) <br>
+This theme is based on materia theme (https://github.com/nana-4/materia-theme) <br>
 Made with Themix GUI theme designer (https://github.com/themix-project/oomox)
