@@ -17,7 +17,10 @@ It supports GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm.
 
 # Installation
 Just copy dark knight/dark knight compact folder to /home/{username}/.themes. 
-Make __.theme__ folder if needed.
+Make __.themes__ folder if needed.
+
+# Icons
+Icons i used was [Papirus dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 
 # Extra thoughts
 Inspired by [vastglad](https://twitter.com/vastglad/) <br>
