@@ -24,5 +24,5 @@ Icons i used was [Papirus dark](https://github.com/PapirusDevelopmentTeam/papiru
 
 # Extra thoughts
 Inspired by [vastglad](https://twitter.com/vastglad/) <br>
-This theme is based on materia theme (https://github.com/nana-4/materia-theme) <br>
-Made with Themix GUI theme designer (https://github.com/themix-project/oomox)
+This theme is based on [materia theme](https://github.com/nana-4/materia-theme) <br>
+Made with Themix GUI [theme designer](https://github.com/themix-project/oomox)
